@@ -1,0 +1,111 @@
+html,body{
+  height: 100%;
+  width:100%; 
+}
+body{
+  padding:3%;
+}
+a {
+  text-decoration: none;
+}
+.bg{
+  height: 100%;
+  width:100%;
+  background-color:#042F5F;
+  padding: 2%;
+  border-color: #070068;
+  border-width: 4px;
+  border-style: solid;
+  overflow: hidden;
+  position: relative;
+}
+.float {
+  text-align: center;
+  font-size: 18px;
+  margin-bottom: 5px;
+}
+.diditetri{
+	display: inline-block;
+	width: 1206px;
+	height: 620px;
+	background-color: #FFFFFF;
+	margin-right:20px;
+	border-color: #0071BC;
+    border-width: 4px;
+    border-style: solid;
+    position: relative;
+
+
+}
+.child-box {
+	
+	display: inline-block;
+	width: 1126px;
+	height: 200px;
+	background-color: #304A67;
+	margin-right:30px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-color: #2267B5;
+    border-width: 4px;
+    border-style: solid;
+    position: relative;
+}
+.child-boxcisferi{
+	
+	display: inline-block;
+	width: 155px;
+	height: 80px;
+	background-color: #75B3F9;
+	margin-right:25.5px;
+	margin-left: 25.5px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	position: relative;
+
+}
+
+.child-boxtetri {
+	
+	display: inline-block;
+	width: 206px;
+	height: 120px;
+	background-color: #FFFFFF;
+	margin-right:20px;
+	border-color: #93278F;
+    border-width: 1px;
+    border-style: solid;
+    position: relative;
+ }
+
+.child-box3 {
+	display: inline-block;
+	width: 1125px;
+	height: 299px;
+	background-color: #304A67;
+	margin-right:30px;
+	margin-left: 30px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	border-color: #2267B5;
+    border-width: 4px;
+    border-style: solid;
+}
+p.teqsti2{
+   font-size: 51.1px;
+   color: #FFFFFF;
+   text-align: center;
+   margin-top: 124px;
+}
+p.teqsti{
+  font-size: 14px;
+  color: #FFFFFF;
+  text-align: center;
+  margin-top: 40px;
+}
+
+
+.clear{
+  clear: both;
+}
